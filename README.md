@@ -6,9 +6,12 @@ This app is designed to demonstrate the potential of Flutter in creating visuall
 
 ## Screenshots
 
-![Welcome Screen](![Screenshot_1698593914](https://github.com/Emperor-Grey/Login-Ui/assets/133247459/81541243-48ce-48d4-9780-90c04bff45a8))
-![Login Screen](![Screenshot_1698593923](https://github.com/Emperor-Grey/Login-Ui/assets/133247459/9c1e79b6-1a79-473a-a06f-8d68f2162cc7))
-![Register Screen](![Screenshot_1698593927](https://github.com/Emperor-Grey/Login-Ui/assets/133247459/6100c147-6ef9-4cad-a78a-90ad3629051f))
+![Welcome Screen](![Screenshot_1698593914](https://github.com/Emperor-Grey/Login-Ui/assets/133247459/81541243-48ce-48d4-9780-90c04bff45a8)
+)
+![Login Screen](![Screenshot_1698593923](https://github.com/Emperor-Grey/Login-Ui/assets/133247459/9c1e79b6-1a79-473a-a06f-8d68f2162cc7)
+)
+![Register Screen](![Screenshot_1698593927](https://github.com/Emperor-Grey/Login-Ui/assets/133247459/6100c147-6ef9-4cad-a78a-90ad3629051f)
+)
 
 ## Getting Started
 
