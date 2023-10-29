@@ -5,7 +5,7 @@ The **Job Explorer App** is a mobile application built using Flutter to showcase
 This app is designed to demonstrate the potential of Flutter in creating visually appealing and user-friendly mobile applications.
 
 ## Screenshots
-![Welcome Screen](https://raw.githubusercontent.com/Emperor-Grey/Login-Ui/main/assets/133247459/81541243-48ce-48d4-9780-90c04bff45a8.png)
+![Welcome Screen](https://raw.githubusercontent.com/Emperor-Grey/Login-Ui/main/assets/Screenshot_1698593914.png)
 ![Login Screen](https://raw.githubusercontent.com/Emperor-Grey/Login-Ui/main/assets/133247459/9c1e79b6-1a79-473a-a06f-8d68f2162cc7.png)
 ![Register Screen](https://raw.githubusercontent.com/Emperor-Grey/Login-Ui/main/assets/133247459/6100c147-6ef9-4cad-a78a-90ad3629051f.png)
 
