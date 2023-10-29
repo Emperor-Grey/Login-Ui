@@ -1,0 +1,27 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#F5F5F5"/>
+<g id="Login Screen">
+<g clip-path="url(#clip0_0_1)">
+<rect x="-202" y="-787" width="428" height="926" rx="50" fill="white"/>
+<g id="objects">
+</g>
+<g id="social media">
+<g id="social media_2">
+<g id="facebook">
+<rect x="-18" y="-10" width="60" height="44" rx="10" fill="#ECECEC"/>
+<g id="Frame 1">
+<g id="ic:sharp-facebook">
+<path id="Vector" d="M22 12C22 6.48 17.52 2 12 2C6.48 2 2 6.48 2 12C2 16.84 5.44 20.87 10 21.8V15H8V12H10V9.5C10 7.57 11.57 6 13.5 6H16V9H14C13.45 9 13 9.45 13 10V12H16V15H13V21.95C18.05 21.45 22 17.19 22 12Z" fill="black"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect x="-202" y="-787" width="428" height="926" rx="50" fill="white"/>
+</clipPath>
+</defs>
+</svg>
